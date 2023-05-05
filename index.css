@@ -1,0 +1,36 @@
+/* Write your code here. */
+.main-cont {
+  background-color: white;
+  color: white;
+}
+.heading {
+  font-family: roboto;
+}
+.cont-1 {
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  margin: 10px;
+}
+.cont-2 {
+  background-color: green;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  margin: 10px;
+}
+.cont-3 {
+  background-color: orange;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  margin: 10px;
+}
+.cont-4 {
+  background-color: red;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  margin: 10px;
+}
